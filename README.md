@@ -1,7 +1,7 @@
 Pawfect Supplies - E-commerce UI Project
 
-Student Name:Rafael Ghiene F. Gaje
-Student ID:2023-219556 
+Student Name:Jhon Emil Mercado
+Student ID:2023-2110550
 
 Dumaguete Campus
 Final Project - 2nd Semester A.Y. 2024–2025
